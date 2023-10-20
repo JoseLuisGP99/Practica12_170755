@@ -1,4 +1,4 @@
-# DMI_PRACTICA11_170755
+# DMI_PRACTICA12_170755
 
 
 [![Encabezado.png](https://i.postimg.cc/PJKtvHNC/Encabezado.png)](https://postimg.cc/K3kXCdPb)
@@ -22,9 +22,9 @@
 &nbsp;
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre  |  Práctica 11:  Implementación de navegación entre Series de TV y Películas. |
+| Nombre  |  Práctica 12:  Implementación de navegación entre Series de TV y Películas. |
 | Descripción  |  Esta practica se retomo la practica 10, en esta ocación se implemento la vista de series aplicando la misma formula que el de peliculas, colocando cada una es una card, cambiando la variable "movies" a la varieble "media", haciendo referencia que ya no solo se manda a traer las peliculas sino tambien las series.|
-|  Fecha de Actividad  |  13 de Octubre de 2023  |
+|  Fecha de Actividad  |  20 de Octubre de 2023  |
 
 &nbsp;
 &nbsp;
