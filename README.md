@@ -38,8 +38,8 @@
 [![4.png](https://i.postimg.cc/NMJBSmg5/4.png)](https://postimg.cc/FdLMJfk4)
 [![5.png](https://i.postimg.cc/NFZYft2t/5.png)](https://postimg.cc/sGPbwtJH)
 [![6.png](https://i.postimg.cc/Mp2xCW8b/6.png)](https://postimg.cc/4m5rtRym)
-[![1.png](https://i.postimg.cc/RZS9SgNN/1.png)](https://postimg.cc/F7BwGgb4)
-[![2.png](https://i.postimg.cc/TPh6mhjx/2.png)](https://postimg.cc/67sgxW1b)
+[![11.png](https://i.postimg.cc/vTWqcPX9/11.png)](https://postimg.cc/64pLPfk5)
+[![12.png](https://i.postimg.cc/BvLCjYn6/12.png)](https://postimg.cc/rdT4b9WX)
 [![3.png](https://i.postimg.cc/bvMjR8Lt/3.png)](https://postimg.cc/06p38TTk)
 
 <br>
